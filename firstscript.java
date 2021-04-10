@@ -1,5 +1,4 @@
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 Public Class FirstTestCase()
 {
   Public Static void Main(String args[])

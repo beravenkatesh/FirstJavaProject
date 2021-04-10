@@ -19,7 +19,11 @@ Public Class FirstTestCase()
     {
       System.out.print("Test is failed"+st);
     }
+    int i=10;
+    int j= 0;
     
+    int k = i/j;
+    System.out.println("Exception");
   }
   
 }

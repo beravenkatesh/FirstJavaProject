@@ -26,6 +26,7 @@ Public Class FirstTestCase()
     
     int k = i/j;
     System.out.println("Exception");
+Hh
   }
   
 }
